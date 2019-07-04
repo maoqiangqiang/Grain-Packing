@@ -10,6 +10,6 @@ The code will run fastly. The grain packing process will take around half minite
 
 Bear in mind that the code is far from perfect. Some code optimization here and there can be done. Especially, there are probably some bugs I haven't found. If someone find bugs, do not hesitate to give comment and let me know. It will be appreciated that you are willing to make some improvements. Any suggestion and modification are warmly welcome. you can send it to my email, upcmaoqiangqiang@outlook.com or maoqiangqiangupc@gmail.com. Thank you.
 
-Sincerely thanks should be given to my supervisor Prof. Carl Fredirk Berg in the department of geoscience and petroleum in NTNU. He gave me many guidance on my graduation specialized project and my bachelor thesis. Thanks my supervisor.
+Sincerely thanks are given to my supervisor Prof. Carl Fredirk Berg in the department of geoscience and petroleum in NTNU. He gave me many guidance on my graduation specialized project and my bachelor thesis. Thanks my supervisor.
 
 by Mao Qiangqiang 4th, July 2019, exchanged student in Norway University of Science and Technology and bachelor in China University of Petroleum (East China).
