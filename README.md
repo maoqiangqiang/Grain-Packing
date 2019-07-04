@@ -4,7 +4,7 @@ This code was made for the course TPG4560 - Petroleum Engineering, Specializatio
 
 In this repository, the codes for generating 2 dimensional grain packing, area weighted normal distribution and permeability calculation based on Poisson equation are presented on the python platform. Specifically, the awcdf.py is the code for area weighted normal distribution to determine grain size distribution. the GrainPacking_2DMain.py is the main code for generating 2D grain packing. the GrainPacking2D_Function.py is the code for used function that is assistance of the GrainPacking_2DMain.py. 
 
-for 2D grian packing permeability, we mainly calculate it by solving Poisson equation using Finite difference Method. The code is given in permeabilityFunction.py. And the muStdPoroPerm.npy is one example of the packing data which will be used to calculate permeability. 
+for 2D grian packing permeability, we mainly calculate it by solving Poisson equation using Finite difference Method. The code is given in permeabilityFunction.py. And the mesh.npy is one example of the packing data which will be used to calculate permeability. 
 
 The code will run fastly. The grain packing process will take around half minite and permeability calculation will take about 5 seconds.
 
