@@ -1,4 +1,7 @@
-An Python code for 2 dimensional grain packing and calculating the permeability of packing assemblages is given as reference.
+An Python code for 2 dimensional grain packing and calculating the permeability of packing assemblages is given as reference. For detailed information on the algorithm, please refer to the study "Relationship between grain packing and porosity", available at https://arxiv.org/pdf/. Also, the study is also collected in MSC AT PORELAB 2019 at https://porelab.no/wp-content/uploads/2020/04/Catalogue_MSc_final_oppslag.pdf. 
+
+
+<img src="CatalogueMasterStudentsPorelab2019Opportunities2020_QiangqiangMao.jpg" alt="BriefIntroduction" style="width: 50%;" align="center">
 
 This code was made for the course TPG4560 - Petroleum Engineering, Specialization Project in Norwegian University of Science and Technology(NTNU) as an attenmpt to understand the relationship between grain packing and single phase transport properties. 
 
