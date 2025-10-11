@@ -1,5 +1,5 @@
 
-A Python script for 2 dimensional grain packing and permeability calculations is provided as a reference. For a detailed explanation of the algorithm, refer to the study "Relationship between Grain Packing and Porosity," which is available at https://arxiv.org/pdf/ and was also collected in the Catalogue MSC AT PORELAB 2019 at https://porelab.no/wp-content/uploads/2020/04/Catalogue_MSc_final_oppslag.pdf.
+A Python script for 2 dimensional grain packing and permeability calculations is provided as a reference. For a detailed explanation of the algorithm, refer to the study "Relationship between Grain Packing and Porosity," which is available at https://doi.org/10.36227/techrxiv.175994137.72860379/v1 and was also collected in the Catalogue MSC AT PORELAB 2019 at https://porelab.no/wp-content/uploads/2020/04/Catalogue_MSc_final_oppslag.pdf.
 
 <img src="CatalogueMasterStudentsPorelab2019Opportunities2020_QiangqiangMao.jpg" alt="BriefIntroduction" style="width: 75%;" align="center">
 
